@@ -3,14 +3,13 @@
 
 # Microbial Evolution and Genomics Research Lab
 
-Our research focuses on identifying novel bacterial, and archaeal lineages, as well as mobile genetic elements, from environmental sequence data using multi-omics (metagenomics, metatranscriptomics, and phylogenomics) approaches.
 {% include section.html %}
 
 ## Highlights
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Our research focuses on identifying novel bacterial, and archaeal lineages, as well as mobile genetic elements, from environmental sequence data using multi-omics (metagenomics, metatranscriptomics, and phylogenomics) approaches..
 
 {%
   include button.html
