@@ -7,7 +7,7 @@ aliases:
   - K. Mogase Bezuidt
   - K. Mogase Bezuidt
 links:
-  home-page: https://holoviromic.github.io/The-Little-Things/members/jane-smith.html
+  home-page: https://holoviromic.github.io/The-Little-Things/
   google-scholar: https://scholar.google.com/citations?user=kXaosEYAAAAJ&hl=en&authuser=1
 ---
 
