@@ -8,13 +8,7 @@ aliases:
   - K. Mogase Bezuidt
 links:
   home-page: https://janesmith.com
-  google-scholar: 0000-0001-8713-9213
+  google-scholar: https://scholar.google.com/citations?user=kXaosEYAAAAJ&hl=en&authuser=1
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Faucibus purus in massa tempor nec feugiat nisl pretium fusce.
-Elit at imperdiet dui accumsan.
-Duis tristique sollicitudin nibh sit amet commodo nulla facilisi.
-Vitae elementum curabitur vitae nunc sed velit dignissim sodales.
-Lacinia at quis risus sed vulputate odio ut.
-Magna eget est lorem ipsum.
+Keoagile holds a PhD in bioinformatics. He is currently a researcher, and an interim Marine Microbiomics SARChI Chair. His research involves using evolutionary genomics to study gene exchange events and microevolutionary processes that shape microbial communities in their natural habitats. This includes discovering novel prokaryotic and eukaryotic viruses and how these may influence microbiome structures and biogeochemical cycles using sequence data. His previous and ongoing research has involved work in different systems ranging from the ocean, freshwater, the human gut, and terrestrial ecosystems. He employs meta-omics (metagenomics, single-cell genomics, and phylogenomics) to fully explore the evolution and ecological roles of the microbiome from a community to a single-cell level.
