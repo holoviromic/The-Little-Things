@@ -4,8 +4,8 @@ image: images/photo.jpg
 role: principal-investigator
 affiliation: University of Pretoria
 aliases:
-  - K. Mogase
-  - K. Mogase
+  - K. Mogase Bezuidt
+  - K. Mogase Bezuidt
 links:
   home-page: https://janesmith.com
   google-scholar: 0000-0001-8713-9213
