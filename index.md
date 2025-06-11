@@ -9,7 +9,7 @@
 
 {% capture text %}
 
-Our research focuses on identifying novel bacterial, and archaeal lineages, as well as mobile genetic elements, from environmental sequence data using multi-omics (metagenomics, metatranscriptomics, and phylogenomics) approaches..
+.. focuses on identifying novel bacterial, and archaeal lineages, as well as mobile genetic elements, from environmental sequence data using multi-omics (metagenomics, metatranscriptomics, and phylogenomics) approaches..
 
 {%
   include button.html
