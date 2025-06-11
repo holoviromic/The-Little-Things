@@ -1,10 +1,9 @@
 ---
 ---
 
-# holoviromic's Website
+# Microbial Evolution and Genomics Research Lab
 
-An engaging 1-3 sentence description of your lab.
-
+Our research focuses on identifying novel bacterial, and archaeal lineages, as well as mobile genetic elements, from environmental sequence data using multi-omics (metagenomics, metatranscriptomics, and phylogenomics) approaches.
 {% include section.html %}
 
 ## Highlights
